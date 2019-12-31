@@ -6,3 +6,7 @@
   justify-content: center;
   cursor: pointer;
 }
+
+img {
+  max-width: 90vw !important;
+}
