@@ -88,7 +88,7 @@ class App extends Component {
     })
     .then(response => response.json())
     .then(response => {
-      if (response) {
+      if (response && response.status.code === 10000) {
         fetch('https://calm-reef-17871.herokuapp.com/image', {
           method: 'put',
           headers: { 'Content-Type': "application/json" },
