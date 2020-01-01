@@ -1,5 +1,5 @@
 # Smart-Brain App
-Front end for smart brain app, a web app that takes an image url and locates a face in the image. Then draws a blue square over it. YOu can check it out live at [https://smart-brain-bola.herokuapp.com](https://smart-brain-bola.herokuapp.com)
+Front end for smart brain app, a web app that takes an image url and locates a face in the image. Then draws a blue square over it. You can check it out live at [https://smart-brain-bola.herokuapp.com](https://smart-brain-bola.herokuapp.com)
 
 ## Available Scripts
 
